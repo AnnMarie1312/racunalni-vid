@@ -43,19 +43,6 @@ Applying distance transform.
 Normalizing the distance transform image.
 Identifying cell centers and background regions.
 Preparing images for Watershed segmentation.
-Project Structure
 
-text
-Image-Processing/
-│
-├── images/
-│   ├── cells.jpg
-│   ├── building_1.jpg
-│   ├── building_2.jpg
-│   ├── roma_1.png
-│   └── roma_2.jpg
-│
-├── notebooks/
-│   └── image_processing.ipynb
-│
-└── README.md
+
+
